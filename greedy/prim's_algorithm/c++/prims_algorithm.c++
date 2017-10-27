@@ -3,7 +3,7 @@
 
 // Number of vertices in the graph
 #define V 5
-
+//Gives minimum spanning tree
 // A utility function to find the vertex with minimum key value, from
 // the set of vertices not yet included in MST
 int minKey(int key[], bool mstSet[])
